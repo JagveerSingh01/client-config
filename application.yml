@@ -1,3 +1,2 @@
-server:
-    url: local
-
+my:
+        greeting: Jagveer Singh
